@@ -1,0 +1,1 @@
+Ryotsu is very rich and lazy person. His flat is on floor no. 4 and lift is not working properly. He is on the ground floor and want to get in his home as soon as possible and use staircases. each staircase is of 20 cms height  and total distance from ground floor to 4th floor is  800 cms. How many stairs he has to climb to get into his home.

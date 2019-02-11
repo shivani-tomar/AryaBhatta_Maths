@@ -1,0 +1,3 @@
+Jack sparrow is sitting under a tree having two branches on which some jacks and some sparrows are sitting. If one sparrow goes to jack's side then no. of members in one branch will be equal to another branch and if one jack goes to side of sparrow then no. of members in one branch will be half of members of another branch.
+
+Jack sparrow is weak in maths. Please help him to calculate how many jacks and sparrows are there on the branch?

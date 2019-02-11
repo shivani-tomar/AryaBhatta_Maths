@@ -1,0 +1,1 @@
+After soaking cph4 by the blood of Lucy, She enter in mathematical world and lost in the country of mountains. She cannot exit this country untill and unless she will not calculate the height of each mountain. She can look each mountain with tangent angle and have a device which can calculate length of base of mountain. How can she get out from that country.
