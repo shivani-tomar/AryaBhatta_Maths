@@ -1,0 +1,1 @@
+Petty is lost in Peris and and right now she is standing in front of Eiffel Tower . she decided to go and search path for her home but unfortunately she come again in front of Eiffel Tower. How much displacement she covered.
