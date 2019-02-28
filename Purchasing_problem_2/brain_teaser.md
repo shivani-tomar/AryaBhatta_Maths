@@ -2,7 +2,7 @@ Neo is too much foody and very specific to utensils used to serve food. That's w
 buy new utensils . But she has only 20 Rupees and shopkeeper tells her that he will give utensils if trinity buy one utensil of every type
 and no. of utensils must be equal to amount of rupees. Help Trinity to buy utensils.
 
-| Item | Price(Rs. per each) |
+| Item | Price (Rs./item) |
 | --- | ---- |
 | Plate | 4 |
 | Bowl  | 0.5 |
