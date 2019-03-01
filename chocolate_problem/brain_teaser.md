@@ -1,0 +1,1 @@
+Olivia is very fond of chocolates and have 9 rupees. She went to market asked shopkeeper to give chocolates. There was a scheme which shopkeeper offers. He told her that one chocolate costs one rupee and she can buy one chocolate with three reppers. Now help her to calculate how many chocolates she can buy.
