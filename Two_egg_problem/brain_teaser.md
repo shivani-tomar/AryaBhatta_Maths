@@ -1,0 +1,1 @@
+You are given two eggs . You need to find out how much these eggs are strong i.e. there is a 100 storied building.you need to find out from which floor should be started to throw to know its breaking point in optimized way.
