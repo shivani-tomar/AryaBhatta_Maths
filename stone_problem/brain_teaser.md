@@ -1,0 +1,1 @@
+There are a heap of stone . You and your friend is playing a game in which who removes stones lastly wins the game. Either 1 or 2 or 3 stones can be removed on one time . you always take first turn . you both are smart enough to plan the strategies to win game. There are 99 stones in heap . Who will win the game you or your friend ?
