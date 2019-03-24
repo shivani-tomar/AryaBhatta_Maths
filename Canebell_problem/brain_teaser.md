@@ -1,0 +1,1 @@
+There are three cannibals and three missionaries . Both are one side of a river and want to cross river and boat can have two persons at one time. Cannibal will eat missionary if number of cannibal is greater than missionary on any side. Help them to reach another side of river safely.
