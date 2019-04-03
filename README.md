@@ -29,10 +29,3 @@ List of puzzles are given below : -
 
 
 
-
-
-
-
-
-If you have any suggestion or puzzles , do tell me by raising issues on github.
-
