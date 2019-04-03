@@ -18,6 +18,15 @@ List of puzzles are given below : -
 * [Purchasing_problem_2](https://github.com/shivani-tomar/Aryabhatta_Maths/tree/master/Purchasing_problem_2)
 * [Staircase_problem](https://github.com/shivani-tomar/Aryabhatta_Maths/tree/master/Staircase_problem)
 * [displacement_problem](https://github.com/shivani-tomar/Aryabhatta_Maths/tree/master/displacement_problem)
+* [Canebell__problem](https://github.com/shivani-tomar/Aryabhatta_Maths/tree/master/Canebell_problem)
+* [Frog_problem](https://github.com/shivani-tomar/Aryabhatta_Maths/tree/master/Frog_problem)
+* [Tower_of_hanoi_problem](https://github.com/shivani-tomar/Aryabhatta_Maths/tree/master/Tower_of_hanoi_problem)
+* [Two_egg_problem](https://github.com/shivani-tomar/Aryabhatta_Maths/tree/master/Two_egg_problem)
+* [chocolate_problem](https://github.com/shivani-tomar/Aryabhatta_Maths/tree/master/chocolate_problem)
+* [displacement_problem](https://github.com/shivani-tomar/Aryabhatta_Maths/tree/master/displacement_problem)
+* [door_problem](https://github.com/shivani-tomar/Aryabhatta_Maths/tree/master/door_problem)
+* [stone_problem](https://github.com/shivani-tomar/Aryabhatta_Maths/tree/master/stone_problem)
+
 
 
 
