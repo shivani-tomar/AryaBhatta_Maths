@@ -1,0 +1,1 @@
+You are trapped in an island where no clock to know time. There will be a ship which come into 45 min to take you. Now you need to calculate 45 min using two ropes which are non uniform in density in which one of them burn into 1 hour and another can burn in half hour. How would you calculate 45 min using these ropes.

@@ -1,0 +1,1 @@
+You have 5l and 3l jug and infinite amount of water. You need to measure 4l water into 5l jug. These jugs are not uniform and no mark on them for measurement. How would you measure 4l water. 

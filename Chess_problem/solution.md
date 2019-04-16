@@ -1,0 +1,1 @@
+No , beacuse the corners which are cut off are of same color . Suppose both are of white color . That means there are 32 squares of black color and 30 of white color. So, its impossible to cover the whole board with these dominos.

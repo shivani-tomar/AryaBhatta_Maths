@@ -1,0 +1,1 @@
+There are 100 prisoner in a jail. All wearing in white and black hat but cannot see themselves hat. Jailer announced that if everybody tells the right color of their own head then everybody is free but if anyone tell wrong color of his hat then all will going to die. What strategy they should plan to escape fromthe jail.

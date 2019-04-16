@@ -1,0 +1,1 @@
+First burn both ropes , after half an hour one rope will be finished and then burn rest rope from bothe sides . Now 45 mins are done and ship has came to you to take you back.

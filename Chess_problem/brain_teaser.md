@@ -1,0 +1,1 @@
+There is 8X8 chess board in which two oppositely corner of same diagonal are cut off. There are 31 domino and each domino can cover exactly two squares of chess board one of black color and other of white color . Can the whole board be covered using these dominos ?

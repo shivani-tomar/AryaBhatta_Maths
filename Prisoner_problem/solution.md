@@ -1,0 +1,3 @@
+They will for a queue of altering colors of hat. And look the color of hat of the person standing ahead of him. If it's black color then he had wear white color hat and shout "White color" and if it's color is white then he will shout "BLack color". And this will goes on till first person of queue. First person of the queue will shout opposite color of what he listened last.
+
+In this way all will be free.
